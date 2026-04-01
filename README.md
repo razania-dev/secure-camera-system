@@ -8,7 +8,7 @@ Unityで作成したカメラ追従システム
 
 デモ
 
-※ここにGIFを貼る
+![Camera Demo](CameraDemo.gif)
 
 ---
 
