@@ -31,7 +31,7 @@ Unityで作成したカメラ追従システム
 
 - 回転を「水平（Yaw）」と「垂直（Pitch）」に分離することで、各関節の自然な動きを実現 
 - 親オブジェクトの影響を考慮したローカル回転制御
-- 再利用可能な設計（AngleCalculation / RotationController）
+- 再利用可能な設計（RotationCalculation / RotationController）
 
 ---
 
